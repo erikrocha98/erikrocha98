@@ -17,4 +17,4 @@
 </div>
 
 - 💻 Atualmente trabalho com desenvolvimento fullstack
-- 🚀 Atualmente estou aprendendo desenvolvimento backend com nodejs e c#, bem como data science com python.
+- 🚀 Aprendendo desenvolvimento backend com nodejs e c#, bem como os fundamentos de data science.
